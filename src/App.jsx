@@ -1,7 +1,7 @@
 
 import { Routes, Route } from "react-router";
-import Navbar from "./component/Navbar";
-import Footer from "./component/Footer";
+import Navbar from "./Component/Navbar.jsx";
+import Footer from "./Component/Footer.jsx";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Resume from "./pages/Resume";
@@ -9,7 +9,7 @@ import Resume from "./pages/Resume";
 export default function App() {
   return (
     <>
-      <Navbar />
+      <Navbar /> 
 
       <Routes>
         <Route path="/" element={<Home />} />
