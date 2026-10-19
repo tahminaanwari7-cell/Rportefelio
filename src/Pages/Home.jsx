@@ -1,12 +1,12 @@
 
 import { motion } from "motion/react";
 
-import img1 from "../assets/web1.jpg";
-import img2 from "../assets/web2.jpg";
-import img3 from "../assets/web3.jpg";
-import img4 from "../assets/web4.jpg";
-import img5 from "../assets/web5.jpg";
-import img6 from "../assets/web6.jpg";
+import img1 from "../assets/girl2.jpg";
+import img2 from "../assets/home.jpg";
+import img3 from "../assets/solar.jpg";
+import img4 from "../assets/sky2.jpg";
+import img5 from "../assets/girl.jpg";
+import img6 from "../assets/ball.jpg";
 
 import slide1 from "../assets/images.png";
 import slide2 from "../assets/images (1).jpg";

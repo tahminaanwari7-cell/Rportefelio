@@ -236,7 +236,7 @@ a {
    TEXT SLIDER
 ========================= */
 .slider {
-  width: min(100%, 850px);
+  width: min(30%, 850px);
   margin: 25px auto 0;
   overflow: hidden;
 }
@@ -307,7 +307,7 @@ a {
    PROJECTS
 ========================= */
 .projecthead {
-  margin-top: 12rem;
+  margin-top: 8rem;
   padding: 0 20px;
   text-align: center;
 }
